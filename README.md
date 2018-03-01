@@ -2,7 +2,7 @@
 My first repo
 
 This is my sample README
-/hello/world
+/\\hello/world
 
 :sample
 -
